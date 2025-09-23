@@ -1,5 +1,4 @@
-# GestioneBiblioteca
-Simulazione di Gestione Biblioteca.
+Gestione Biblioteca
  Classe astratta ElementoBiblioteca con attributi comuni (titolo, annoPubblicazione).
  Sottoclassi: Libro, Rivista, DVD.
  Metodo astratto mostraDettagli().
